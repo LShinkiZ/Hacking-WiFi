@@ -10,6 +10,18 @@ Wi-Fi es una tecnología de redes inalámbricas que usan las computadoras, telé
 
 Este estándar fue presentado a finales de la década de 1990, durante todo este camino, esta tecnología ha ido avanzando en su desarrollo, la primera generación de wifi 802.11 ofrecía una velocidad de enlace máxima de 1-2 Mbps, mientras que la última generación de wifi 802.11ax tiene una velocidad máxima de 574-9608 Mbps. 
 
+| **Wi-Fi Generation** | **IEEE Standard**   | **Adopted** | **Maximum Link Rate** |
+|----------------------|---------------------|-------------|-----------------------|
+| Wi-Fi 0*             | 802.11 or 802.11-1997 | 1997        | 1-2 Mbps              |
+| Wi-Fi 1*             | 802.11b              | 1999        | 1-11 Mbps             |
+| Wi-Fi 2*             | 802.11a              | 1999        | 6-54 Mbps             |
+| Wi-Fi 3*             | 802.11g              | 2003        | 6-54 Mbps             |
+| Wi-Fi 4              | 802.11n              | 2008        | 72-600 Mbps           |
+| Wi-Fi 5              | 802.11ac             | 2014        | 433-6933 Mbps         |
+| Wi-Fi 6 / Wi-Fi 6E   | 802.11ax             | 2019/2020   | 574-9608 Mbps         |
+| Wi-Fi 7              | 802.11be             | 2024        | 1376-46120 Mbps       |
+
+
 # ¿Qué son los Mbps?
 
 Los Mbps son una unidad de medida que indica la velocidad de transferencia de datos, ya sea a través de una conexión a Internet o una red local, y pueden referirse tanto a conexiones inalámbricas como cableadas.
