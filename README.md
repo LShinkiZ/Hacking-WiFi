@@ -12,9 +12,9 @@ Para poder llevar a cabo estas pruebas, será necesario contar con una antena Wi
 - [ALFA AWUS1900](https://www.amazon.com/Alfa-AC1900-WiFi-Adapter-Long-Range/dp/B01MZD7Z76)
 
 # 📑 Contenido
-- [Direcciones IP](https://github.com/LShinkiZ/Hacking-WiFi/blob/main/Conceptos%20b%C3%A1sicos/Direcciones%20IP.md)
-- [Direcciones MAC](https://github.com/LShinkiZ/Hacking-WiFi/blob/main/Conceptos%20b%C3%A1sicos/Direcciones%20MAC%20(OUI%20y%20NIC).md)
-- [Modo monitor](https://github.com/LShinkiZ/Hacking-WiFi/blob/main/Conceptos%20b%C3%A1sicos/Modo%20monitor.md)
+- [Conceptos básicos](https://github.com/LShinkiZ/Hacking-WiFi/tree/main/Conceptos%20b%C3%A1sicos)
+- [Spoofing](https://github.com/LShinkiZ/Hacking-WiFi/tree/main/Spoofing)
+
 # ⚠️ Aviso importante
 
 No me hago responsable del mal uso que se haga de esta información, ya que la subo únicamente con fines de compartir el conocimiento que vaya adquiriendo. Como mencioné anteriormente, este repositorio también sirve como un apunte personal mío.
