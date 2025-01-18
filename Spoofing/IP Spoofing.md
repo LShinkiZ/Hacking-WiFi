@@ -22,3 +22,18 @@ El tráfico lo capturaré mediante la herramienta Wireshark, la cual tengo insta
 ![imagen](https://github.com/user-attachments/assets/fc052fc7-ebe7-4e06-bbbf-9f69098132c5)
 
 Como vemos, al tramitar un paquete desde nuestro Kali, no viaja con la dirección IP 192.168.1.24 la cual sería la original, viaja utilizando la dirección IP que le asignamos anteriormente
+
+Para poder restablecer nuestra dirección IP, ejecutaremos este comando el cual eliminara la configuración anteriormente aplicada
+
+`iptables -t nat -D POSTROUTING 1`
+
+# Alternativas
+
+Una herramienta que podemos utilizar también para efectuar este spoofing puede ser `Hping3` la cual viene instalada en kali por defecto
+
+`hping3 -a 192.168.200.200 -S 192.168.1.17 -p 8080`
+
+Con este comando estamos diciéndole a la herramienta que envie paquetes a la dirección IP `192.168.1.17` por el puerto `8080` haciendo uso de la IP `192.168.200.200`
+
+![imagen](https://github.com/user-attachments/assets/76c3e841-8e3e-4dfb-affe-d242c7921a48)
+
