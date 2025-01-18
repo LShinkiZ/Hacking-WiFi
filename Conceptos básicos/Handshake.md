@@ -1,0 +1,3 @@
+# ¿Qué es un Handshake?
+
+El Handshake es un proceso de autenticación entre un dispositivo y un punto de acceso, cuando nos conectamos a una red, el dispositivo y el punto de acceso intercambian una serie de mensajes encriptados para verificar que las dos partes están autorizadas para establecer la conexión. Este intercambio se conoce como 'Handshake' y en el caso de redes protegidas por WPA/WPA2 incluye la transmisión de una contraseña encriptada que se utiliza para establecer la conexión de forma segura.
